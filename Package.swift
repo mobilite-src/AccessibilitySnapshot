@@ -35,7 +35,7 @@ let package = Package(
         ),
         .package(
             name: "SnapshotTesting",
-            url: "https://github.com/mobilite-src/swift-snapshot-testing/swift-snapshot-testing.git",
+            url: "https://github.com/mobilite-src/swift-snapshot-testing.git",
             .upToNextMajor(from: "1.8.0")
         ),
     ],
